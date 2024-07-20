@@ -1,2 +1,2 @@
 "RUN_DATE", "MONTH", "GH_HANDLE", "FULL_NAME", "COMPANY", "GH_HANDLE_URL", "GH_HANDLE_AVATAR", "NBR_PR", "REPOSITORIES"
-"2024-07-19T07-41-03Z", "2024-06", "durga97176", "", "", "https://github.com/durga97176", "https://avatars.githubusercontent.com/u/70195793?v=4", "2", "jenkins-docs/simple-java-maven-app"
+"2024-07-20T07-40-58Z", "2024-06", "daniel-beck", "Daniel Beck", "@cloudbees ", "https://github.com/daniel-beck", "https://avatars.githubusercontent.com/u/1831569?u=a3692bd96d54be3ca51a96cf0d44c831a2d33c89&v=4", "5", "jenkinsci/.github jenkinsci/matrix-auth-plugin jenkinsci/jenkins jenkinsci/android-emulator-plugin"
