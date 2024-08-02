@@ -1,2 +1,2 @@
 "RUN_DATE", "MONTH", "GH_HANDLE", "FULL_NAME", "COMPANY", "GH_HANDLE_URL", "GH_HANDLE_AVATAR", "NBR_PR", "REPOSITORIES"
-"2024-08-01T07-41-24Z", "2024-07", "TT-S3-D1", "Sebastian Dietze", "", "https://github.com/TT-S3-D1", "https://avatars.githubusercontent.com/u/57706705?u=5df9f2ceb7137a50b11c7b371426725aee49c251&v=4", "1", "jenkinsci/ecu-test-execution-plugin"
+"2024-08-02T07-41-18Z", "2024-07", "sghill", "Steve Hill", "Netflix", "https://github.com/sghill", "https://avatars.githubusercontent.com/u/230004?u=f77c78a03aa707ad1de13d0dc1d5b46527abecce&v=4", "2", "jenkinsci/naginator-plugin"
