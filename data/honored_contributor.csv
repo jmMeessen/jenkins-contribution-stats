@@ -1,2 +1,2 @@
 "RUN_DATE", "MONTH", "GH_HANDLE", "FULL_NAME", "COMPANY", "GH_HANDLE_URL", "GH_HANDLE_AVATAR", "NBR_PR", "REPOSITORIES"
-"2024-08-12T07-40-55Z", "2024-07", "nfantoni", "Nicolas Fantoni", "@imolainformatica", "https://github.com/nfantoni", "https://avatars.githubusercontent.com/u/37618035?u=9ce53129de2f8f1d44c920feffe7bcee0a41dcc2&v=4", "3", "jenkinsci/artifact-promotion-plugin jenkins-infra/repository-permissions-updater"
+"2024-08-13T07-40-45Z", "2024-07", "mprausa", "Mario Prausa", "TNG Technology Consulting", "https://github.com/mprausa", "https://avatars.githubusercontent.com/u/23249204?v=4", "1", "jenkinsci/oic-auth-plugin"
