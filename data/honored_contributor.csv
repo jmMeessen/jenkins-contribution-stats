@@ -1,2 +1,2 @@
 "RUN_DATE", "MONTH", "GH_HANDLE", "FULL_NAME", "COMPANY", "GH_HANDLE_URL", "GH_HANDLE_AVATAR", "NBR_PR", "REPOSITORIES"
-"2024-08-18T07-40-47Z", "2024-07", "Gozke", "Géza Molnár", "", "https://github.com/Gozke", "https://avatars.githubusercontent.com/u/10363588?u=31f306b7cbdfcafdff016a9daac32fe732aff87a&v=4", "1", "jenkinsci/bitbucket-push-and-pull-request-plugin"
+"2024-08-19T07-40-55Z", "2024-07", "julieheard", "Julie Heard", "CloudBees", "https://github.com/julieheard", "https://avatars.githubusercontent.com/u/55280278?u=18b12299aa187d492d912eab9d4a4c37e2a5e4d8&v=4", "2", "jenkins-infra/jenkins.io jenkinsci/workflow-api-plugin"
