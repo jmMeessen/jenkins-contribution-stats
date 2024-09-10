@@ -1,2 +1,2 @@
 "RUN_DATE", "MONTH", "GH_HANDLE", "FULL_NAME", "COMPANY", "GH_HANDLE_URL", "GH_HANDLE_AVATAR", "NBR_PR", "REPOSITORIES"
-"2024-09-09T07-40-55Z", "2024-08", "kirk-fitz", "", "", "https://github.com/kirk-fitz", "https://avatars.githubusercontent.com/u/176275544?v=4", "4", "jenkinsci/sonar-quality-gates-plugin jenkins-infra/update-center2"
+"2024-09-10T07-41-05Z", "2024-08", "dwnusbaum", "Devin Nusbaum", "@cloudbees ", "https://github.com/dwnusbaum", "https://avatars.githubusercontent.com/u/1068968?u=5ea9c773c2f1e086d5e43cd822477ba675f1395d&v=4", "9", "jenkinsci/jenkins jenkinsci/hashicorp-vault-plugin jenkinsci/junit-plugin jenkinsci/workflow-cps-plugin jenkinsci/workflow-api-plugin"
