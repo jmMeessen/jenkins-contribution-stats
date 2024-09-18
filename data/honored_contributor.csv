@@ -1,2 +1,2 @@
 "RUN_DATE", "MONTH", "GH_HANDLE", "FULL_NAME", "COMPANY", "GH_HANDLE_URL", "GH_HANDLE_AVATAR", "NBR_PR", "REPOSITORIES"
-"2024-09-17T07-41-12Z", "2024-08", "sirine707", "Sirine Jnayeh", "", "https://github.com/sirine707", "https://avatars.githubusercontent.com/u/128883619?u=f255ff67017d5dc255ea4643362857674e62085e&v=4", "2", "jenkinsci/git-plugin jenkinsci/warnings-ng-plugin"
+"2024-09-18T07-42-24Z", "2024-08", "uhafner", "Ullrich Hafner", "University of Applied Sciences Munich", "https://github.com/uhafner", "https://avatars.githubusercontent.com/u/503338?v=4", "9", "jenkinsci/prism-api-plugin jenkinsci/warnings-ng-plugin jenkinsci/git-forensics-plugin jenkinsci/forensics-api-plugin jenkinsci/coverage-model"
