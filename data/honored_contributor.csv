@@ -1,2 +1,2 @@
 "RUN_DATE", "MONTH", "GH_HANDLE", "FULL_NAME", "COMPANY", "GH_HANDLE_URL", "GH_HANDLE_AVATAR", "NBR_PR", "REPOSITORIES"
-"2024-09-22T07-40-52Z", "2024-08", "akhilkolu", "", "", "https://github.com/akhilkolu", "https://avatars.githubusercontent.com/u/143278637?v=4", "2", "jenkins-docs/simple-java-maven-app"
+"2024-09-23T07-40-58Z", "2024-08", "BorisYaoA", "Boris Yao", "@cloudbees ", "https://github.com/BorisYaoA", "https://avatars.githubusercontent.com/u/106237859?u=d40ce4f50dc2f86d82cbaf60f54536407d4b5878&v=4", "3", "jenkinsci/notification-plugin jenkinsci/jira-plugin jenkinsci/github-oauth-plugin"
