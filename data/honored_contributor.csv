@@ -1,2 +1,2 @@
 "RUN_DATE", "MONTH", "GH_HANDLE", "FULL_NAME", "COMPANY", "GH_HANDLE_URL", "GH_HANDLE_AVATAR", "NBR_PR", "REPOSITORIES"
-"2024-09-24T07-40-58Z", "2024-08", "tilalx", "Tilo Alexander", "ASC Technologies AG", "https://github.com/tilalx", "https://avatars.githubusercontent.com/u/59500358?u=dcf04800967acef2dd40c716a22b8fcae1939dd6&v=4", "3", "jenkinsci/msbuild-plugin jenkins-infra/repository-permissions-updater"
+"2024-09-25T07-41-04Z", "2024-08", "edwinvanderham", "Edwin van der Ham", "", "https://github.com/edwinvanderham", "https://avatars.githubusercontent.com/u/6780796?v=4", "1", "jenkinsci/description-setter-plugin"
