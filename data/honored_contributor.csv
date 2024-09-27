@@ -1,2 +1,2 @@
 "RUN_DATE", "MONTH", "GH_HANDLE", "FULL_NAME", "COMPANY", "GH_HANDLE_URL", "GH_HANDLE_AVATAR", "NBR_PR", "REPOSITORIES"
-"2024-09-26T07-41-11Z", "2024-08", "sichapman", "Simon Chapman", "", "https://github.com/sichapman", "https://avatars.githubusercontent.com/u/7984422?u=5168345ed56d6ef64780d358d7b44f8ccc69004f&v=4", "1", "jenkinsci/gitlab-branch-source-plugin"
+"2024-09-27T07-40-58Z", "2024-08", "atl-dyon", "", "", "https://github.com/atl-dyon", "https://avatars.githubusercontent.com/u/122507096?u=70e666ef1c93d25f8a6be05c8dccbefb92ab92e0&v=4", "1", "jenkinsci/atlassian-bitbucket-server-integration-plugin"
