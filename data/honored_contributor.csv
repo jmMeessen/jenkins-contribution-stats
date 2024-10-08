@@ -1,2 +1,2 @@
 "RUN_DATE", "MONTH", "GH_HANDLE", "FULL_NAME", "COMPANY", "GH_HANDLE_URL", "GH_HANDLE_AVATAR", "NBR_PR", "REPOSITORIES"
-"2024-10-07T07-41-02Z", "2024-09", "mawinter69", "Markus Winter", "SAP", "https://github.com/mawinter69", "https://avatars.githubusercontent.com/u/17767050?v=4", "3", "jenkinsci/jenkins jenkinsci/plain-text-console-link-plugin jenkins-infra/repository-permissions-updater"
+"2024-10-08T07-41-09Z", "2024-09", "mikecirioli", "michael cirioli", "Cloudbees", "https://github.com/mikecirioli", "https://avatars.githubusercontent.com/u/8135503?u=6cb0762280438f1ff7d7c93a92ccae2decd6892e&v=4", "1", "jenkinsci/oic-auth-plugin"
