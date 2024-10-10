@@ -1,2 +1,2 @@
 "RUN_DATE", "MONTH", "GH_HANDLE", "FULL_NAME", "COMPANY", "GH_HANDLE_URL", "GH_HANDLE_AVATAR", "NBR_PR", "REPOSITORIES"
-"2024-10-09T07-41-03Z", "2024-09", "JRKdotEXE", "JRK", "", "https://github.com/JRKdotEXE", "https://avatars.githubusercontent.com/u/108803109?u=ae7ffb26549d7c667d15261ecc40c63b4481e39b&v=4", "3", "jenkinsci/report-jtreg-plugin"
+"2024-10-10T07-41-06Z", "2024-09", "chcg", "", "", "https://github.com/chcg", "https://avatars.githubusercontent.com/u/12630740?v=4", "2", "jenkinsci/JiraTestResultReporter-plugin"
