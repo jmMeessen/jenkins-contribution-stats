@@ -1,2 +1,2 @@
 "RUN_DATE", "MONTH", "GH_HANDLE", "FULL_NAME", "COMPANY", "GH_HANDLE_URL", "GH_HANDLE_AVATAR", "NBR_PR", "REPOSITORIES"
-"2024-10-19T07-41-02Z", "2024-09", "akulinchev", "Ivan Akulinchev", "", "https://github.com/akulinchev", "https://avatars.githubusercontent.com/u/11752692?v=4", "2", "jenkinsci/absint-astree-plugin"
+"2024-10-20T07-40-59Z", "2024-09", "PierreBtz", "Pierre Beitz", "@cloudbees ", "https://github.com/PierreBtz", "https://avatars.githubusercontent.com/u/9881659?u=aafff7c58b6022eeb51e7baf23350ede7e9f0198&v=4", "2", "jenkinsci/audit-trail-plugin jenkinsci/support-core-plugin"
