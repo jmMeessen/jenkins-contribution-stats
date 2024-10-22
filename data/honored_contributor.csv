@@ -1,2 +1,2 @@
 "RUN_DATE", "MONTH", "GH_HANDLE", "FULL_NAME", "COMPANY", "GH_HANDLE_URL", "GH_HANDLE_AVATAR", "NBR_PR", "REPOSITORIES"
-"2024-10-21T07-41-51Z", "2024-09", "PereBueno", "Pere", "CloudBees", "https://github.com/PereBueno", "https://avatars.githubusercontent.com/u/8758157?u=8a51dd60768cd11d5794b2f8e7e6a8e06183f7e4&v=4", "1", "jenkinsci/kubernetes-plugin"
+"2024-10-22T07-44-13Z", "2024-09", "davidh-cyberark", "David Hisel", "CyberArk", "https://github.com/davidh-cyberark", "https://avatars.githubusercontent.com/u/132942678?u=827c50d6b03c03650f5f3dad139be47b4f9c5fb9&v=4", "3", "jenkinsci/synopsys-polaris-plugin jenkinsci/synopsys-detect-plugin"
