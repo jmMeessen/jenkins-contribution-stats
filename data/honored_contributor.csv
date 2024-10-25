@@ -1,2 +1,2 @@
 "RUN_DATE", "MONTH", "GH_HANDLE", "FULL_NAME", "COMPANY", "GH_HANDLE_URL", "GH_HANDLE_AVATAR", "NBR_PR", "REPOSITORIES"
-"2024-10-24T07-41-08Z", "2024-09", "pmarusz", "", "", "https://github.com/pmarusz", "https://avatars.githubusercontent.com/u/102962371?v=4", "1", "jenkinsci/plugin-usage-plugin"
+"2024-10-25T07-41-25Z", "2024-09", "nikita-tkachenko-datadog", "Nikita Tkachenko", "Datadog", "https://github.com/nikita-tkachenko-datadog", "https://avatars.githubusercontent.com/u/121111529?u=5d838754475ed0e625e2e72ec8d6efbd9be53b51&v=4", "16", "jenkinsci/datadog-plugin"
