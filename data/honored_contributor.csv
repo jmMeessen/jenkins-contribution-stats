@@ -1,2 +1,2 @@
 "RUN_DATE", "MONTH", "GH_HANDLE", "FULL_NAME", "COMPANY", "GH_HANDLE_URL", "GH_HANDLE_AVATAR", "NBR_PR", "REPOSITORIES"
-"2024-10-25T07-41-25Z", "2024-09", "nikita-tkachenko-datadog", "Nikita Tkachenko", "Datadog", "https://github.com/nikita-tkachenko-datadog", "https://avatars.githubusercontent.com/u/121111529?u=5d838754475ed0e625e2e72ec8d6efbd9be53b51&v=4", "16", "jenkinsci/datadog-plugin"
+"2024-10-26T07-40-50Z", "2024-09", "reda-alaoui", "Réda Housni Alaoui", "@Cosium ", "https://github.com/reda-alaoui", "https://avatars.githubusercontent.com/u/2890843?u=ea142c5d4675e5076e17df662bcc3c56edb85a3f&v=4", "3", "jenkinsci/sonar-gerrit-plugin jenkinsci/git-push-plugin"
