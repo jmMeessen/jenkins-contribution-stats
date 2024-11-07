@@ -1,2 +1,2 @@
 "RUN_DATE", "MONTH", "GH_HANDLE", "FULL_NAME", "COMPANY", "GH_HANDLE_URL", "GH_HANDLE_AVATAR", "NBR_PR", "REPOSITORIES"
-"2024-11-06T07-40-52Z", "2024-10", "Coffemin", "Sang Son", "", "https://github.com/Coffemin", "https://avatars.githubusercontent.com/u/115594130?u=6c1f834e2f6f0b311273d8273c142318f0d5dc20&v=4", "6", "jenkins-infra/docs.jenkins.io jenkins-infra/stats.jenkins.io"
+"2024-11-07T07-40-58Z", "2024-10", "gdams", "George Adams", "@Microsoft", "https://github.com/gdams", "https://avatars.githubusercontent.com/u/20224954?u=51f47527ad417b29b6b9c9af5e245e6ec92f1be9&v=4", "2", "jenkinsci/azure-vm-agents-plugin"
