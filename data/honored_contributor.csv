@@ -1,2 +1,2 @@
 "RUN_DATE", "MONTH", "GH_HANDLE", "FULL_NAME", "COMPANY", "GH_HANDLE_URL", "GH_HANDLE_AVATAR", "NBR_PR", "REPOSITORIES"
-"2024-11-10T07-41-01Z", "2024-10", "luliaokang", "luliaokang", "", "https://github.com/luliaokang", "https://avatars.githubusercontent.com/u/16316313?v=4", "1", "jenkinsci/zoom-plugin"
+"2024-11-11T07-42-23Z", "2024-10", "cronik", "Kyle Cronin", "ADP", "https://github.com/cronik", "https://avatars.githubusercontent.com/u/1683550?u=f49543bb2cb9ed02b770cf748dfacd8efce92a25&v=4", "3", "jenkinsci/badge-plugin jenkinsci/pipeline-graph-view-plugin"
