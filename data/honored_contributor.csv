@@ -1,2 +1,2 @@
 "RUN_DATE", "MONTH", "GH_HANDLE", "FULL_NAME", "COMPANY", "GH_HANDLE_URL", "GH_HANDLE_AVATAR", "NBR_PR", "REPOSITORIES"
-"2024-11-14T07-41-08Z", "2024-10", "drivera-armedia", "", "", "https://github.com/drivera-armedia", "https://avatars.githubusercontent.com/u/6098503?v=4", "1", "jenkinsci/gitlab-branch-source-plugin"
+"2024-11-15T07-41-27Z", "2024-10", "kuisathaverat", "Ivan Fernandez Calvo", "@elastic", "https://github.com/kuisathaverat", "https://avatars.githubusercontent.com/u/5400788?u=6e0a80ab6392df2a34fa0c0f576aa09b424817cd&v=4", "3", "jenkinsci/saml-plugin jenkinsci/trilead-api-plugin jenkinsci/ssh-agents-plugin"
