@@ -1,2 +1,2 @@
 "RUN_DATE", "MONTH", "GH_HANDLE", "FULL_NAME", "COMPANY", "GH_HANDLE_URL", "GH_HANDLE_AVATAR", "NBR_PR", "REPOSITORIES"
-"2024-11-17T07-41-55Z", "2024-10", "drivera-armedia", "", "", "https://github.com/drivera-armedia", "https://avatars.githubusercontent.com/u/6098503?v=4", "1", "jenkinsci/gitlab-branch-source-plugin"
+"2024-11-18T07-42-23Z", "2024-10", "nikita-tkachenko-datadog", "Nikita Tkachenko", "Datadog", "https://github.com/nikita-tkachenko-datadog", "https://avatars.githubusercontent.com/u/121111529?u=5d838754475ed0e625e2e72ec8d6efbd9be53b51&v=4", "2", "jenkinsci/datadog-plugin"
