@@ -1,2 +1,2 @@
 "RUN_DATE", "MONTH", "GH_HANDLE", "FULL_NAME", "COMPANY", "GH_HANDLE_URL", "GH_HANDLE_AVATAR", "NBR_PR", "REPOSITORIES"
-"2024-11-27T07-43-04Z", "2024-10", "mkemmerz", "Michael Kemmerzell", "Schaeffler", "https://github.com/mkemmerz", "https://avatars.githubusercontent.com/u/46575727?u=618feb789fa4401d2ba90d662faa75e5f4c239af&v=4", "1", "jenkinsci/job-config-history-plugin"
+"2024-11-28T07-42-24Z", "2024-10", "kryachkov", "André Falk", "", "https://github.com/kryachkov", "https://avatars.githubusercontent.com/u/892191?u=4014e52f058147436824dffdc16b8ba4abfcb047&v=4", "1", "jenkinsci/ssh-agents-plugin"
