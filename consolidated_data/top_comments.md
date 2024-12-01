@@ -1,43 +1,43 @@
 # Top Commenters
 
 Extraction of the 35 top (non-bot) commenters 
-over the 12 months before "2024-11".
+over the 12 months before "2024-12".
 
 
 | Commenter                | Total_Comments |
 | ------------------------ | -------------: |
-| MarkEWaite               |           1284 |
-| dduportal                |           1233 |
-| jglick                   |           1178 |
-| timja                    |           1122 |
-| basil                    |            850 |
-| lemeurherve              |            652 |
-| krisstern                |            647 |
-| kmartens27               |            486 |
-| jtnord                   |            477 |
-| daniel-beck              |            420 |
-| NotMyFault               |            409 |
-| jonesbusy                |            395 |
-| gounthar                 |            389 |
-| dwnusbaum                |            303 |
-| mawinter69               |            280 |
-| smerle33                 |            276 |
-| uhafner                  |            258 |
-| alecharp                 |            237 |
-| Vlatombe                 |            216 |
-| olamy                    |            181 |
-| sridamul                 |            160 |
+| dduportal                |           1297 |
+| MarkEWaite               |           1207 |
+| timja                    |           1157 |
+| jglick                   |           1148 |
+| basil                    |            923 |
+| krisstern                |            677 |
+| lemeurherve              |            624 |
+| kmartens27               |            495 |
+| jtnord                   |            471 |
+| gounthar                 |            457 |
+| daniel-beck              |            426 |
+| jonesbusy                |            392 |
+| NotMyFault               |            353 |
+| dwnusbaum                |            274 |
+| smerle33                 |            263 |
+| Vlatombe                 |            258 |
+| mawinter69               |            256 |
+| uhafner                  |            253 |
+| alecharp                 |            238 |
+| olamy                    |            180 |
+| yaroslavafenkin          |            154 |
+| LizGaudet                |            152 |
+| sridamul                 |            148 |
 | strangelookingnerd       |            148 |
-| janfaracik               |            137 |
-| yaroslavafenkin          |            114 |
-| judovana                 |            108 |
-| zbynek                   |            104 |
-| AppVeyorBot              |            101 |
+| janfaracik               |            130 |
+| fcojfernandez            |            124 |
+| AppVeyorBot              |            109 |
+| drodriguezhdez           |            106 |
 | amuniz                   |            100 |
-| drodriguezhdez           |             95 |
-| fcojfernandez            |             93 |
-| LizGaudet                |             90 |
-| MartinGroscheTT          |             89 |
-| mPokornyETM              |             88 |
-| shlomomdahan             |             85 |
-| nikita-tkachenko-datadog |             81 |
+| shlomomdahan             |             99 |
+| zbynek                   |             98 |
+| judovana                 |             92 |
+| nikita-tkachenko-datadog |             92 |
+| mPokornyETM              |             86 |
+| MartinGroscheTT          |             85 |
