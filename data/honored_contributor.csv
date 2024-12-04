@@ -1,2 +1,2 @@
 "RUN_DATE", "MONTH", "GH_HANDLE", "FULL_NAME", "COMPANY", "GH_HANDLE_URL", "GH_HANDLE_AVATAR", "NBR_PR", "REPOSITORIES"
-"2024-12-03T07-42-49Z", "2024-11", "devopst2024", "", "", "https://github.com/devopst2024", "https://avatars.githubusercontent.com/u/184650195?v=4", "1", "jenkins-docs/simple-java-maven-app"
+"2024-12-04T07-42-57Z", "2024-11", "Dohbedoh", "Allan Burdajewicz", "@cloudbees ", "https://github.com/Dohbedoh", "https://avatars.githubusercontent.com/u/6858329?u=023db2411de943133d85531311056c929f092aa9&v=4", "4", "jenkinsci/workflow-cps-plugin jenkinsci/logstash-plugin jenkinsci/bitbucket-branch-source-plugin jenkinsci/git-plugin"
