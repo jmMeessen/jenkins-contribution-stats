@@ -1,2 +1,2 @@
 "RUN_DATE", "MONTH", "GH_HANDLE", "FULL_NAME", "COMPANY", "GH_HANDLE_URL", "GH_HANDLE_AVATAR", "NBR_PR", "REPOSITORIES"
-"2024-12-04T07-42-57Z", "2024-11", "Dohbedoh", "Allan Burdajewicz", "@cloudbees ", "https://github.com/Dohbedoh", "https://avatars.githubusercontent.com/u/6858329?u=023db2411de943133d85531311056c929f092aa9&v=4", "4", "jenkinsci/workflow-cps-plugin jenkinsci/logstash-plugin jenkinsci/bitbucket-branch-source-plugin jenkinsci/git-plugin"
+"2024-12-05T07-42-27Z", "2024-11", "jesusnoseq", "Jesús Rodríguez Pérez", "@TelefonicaTC2Tech ", "https://github.com/jesusnoseq", "https://avatars.githubusercontent.com/u/1430758?v=4", "5", "jenkinsci/markdown-params-plugin jenkins-infra/repository-permissions-updater"
