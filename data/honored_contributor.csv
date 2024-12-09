@@ -1,2 +1,2 @@
 "RUN_DATE", "MONTH", "GH_HANDLE", "FULL_NAME", "COMPANY", "GH_HANDLE_URL", "GH_HANDLE_AVATAR", "NBR_PR", "REPOSITORIES"
-"2024-12-08T07-40-55Z", "2024-11", "chcg", "", "", "https://github.com/chcg", "https://avatars.githubusercontent.com/u/12630740?v=4", "3", "jenkinsci/JiraTestResultReporter-plugin"
+"2024-12-09T07-42-58Z", "2024-11", "jimklimov", "Jim Klimov", "", "https://github.com/jimklimov", "https://avatars.githubusercontent.com/u/1636756?u=38760c3ca8a0f55d1999c198ff61ab3922457ab6&v=4", "5", "jenkinsci/simple-queue-plugin jenkinsci/conflict-aware-ondemand-strategy-plugin jenkinsci/ircbot-plugin jenkinsci/instant-messaging-plugin"
