@@ -1,2 +1,2 @@
 "RUN_DATE", "MONTH", "GH_HANDLE", "FULL_NAME", "COMPANY", "GH_HANDLE_URL", "GH_HANDLE_AVATAR", "NBR_PR", "REPOSITORIES"
-"2024-12-17T07-42-28Z", "2024-11", "mhenschke-atl", "", "Atlassian", "https://github.com/mhenschke-atl", "https://avatars.githubusercontent.com/u/53157896?u=b1cae600b2fe695ff474d46f3704dc42fc856d5e&v=4", "1", "jenkinsci/atlassian-bitbucket-server-integration-plugin"
+"2024-12-18T07-41-25Z", "2024-11", "Pushkar-Mahajan4", "Pushkar Mahajan", "", "https://github.com/Pushkar-Mahajan4", "https://avatars.githubusercontent.com/u/44649555?u=410d995e6bfc5db40e7c64b039164a71070551df&v=4", "2", "jenkinsci/purge-job-history-plugin jenkinsci/p4-plugin"
