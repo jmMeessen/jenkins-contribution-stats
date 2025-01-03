@@ -1,2 +1,2 @@
 "RUN_DATE", "MONTH", "GH_HANDLE", "FULL_NAME", "COMPANY", "GH_HANDLE_URL", "GH_HANDLE_AVATAR", "NBR_PR", "REPOSITORIES"
-"2025-01-01T07-40-45Z", "2024-12", "ispasov", "Ivan Spasov", "", "https://github.com/ispasov", "https://avatars.githubusercontent.com/u/2429336?v=4", "2", "jenkinsci/macstadium-orka-plugin"
+"2025-01-03T07-40-51Z", "2024-12", "sandeepbarnwal", "Sandeep Kumar Barnwal", "cloudbees", "https://github.com/sandeepbarnwal", "https://avatars.githubusercontent.com/u/5296981?u=75ddf83f9d0ec949158d5dbcc30820db2ed7dd84&v=4", "2", "jenkinsci/dockerhub-notification-plugin jenkinsci/support-core-plugin"
