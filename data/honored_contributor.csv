@@ -1,2 +1,2 @@
 "RUN_DATE", "MONTH", "GH_HANDLE", "FULL_NAME", "COMPANY", "GH_HANDLE_URL", "GH_HANDLE_AVATAR", "NBR_PR", "REPOSITORIES"
-"2025-01-05T07-40-54Z", "2024-12", "nfalco79", "Nikolas Falco", "Finantix", "https://github.com/nfalco79", "https://avatars.githubusercontent.com/u/4160180?u=23a8cde938a833af48fe83ddb26ca3b1f9e835a0&v=4", "10", "jenkinsci/bitbucket-branch-source-plugin jenkins-infra/repository-permissions-updater jenkinsci/blueocean-plugin"
+"2025-01-06T07-41-06Z", "2024-12", "Korjen97", "ItayPaz", "", "https://github.com/Korjen97", "https://avatars.githubusercontent.com/u/143506741?u=bb7e5fae596140e2b398245a2190ed2c113eccf7&v=4", "1", "jenkinsci/checkmarx-ast-scanner-plugin"
