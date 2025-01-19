@@ -1,2 +1,2 @@
 "RUN_DATE", "MONTH", "GH_HANDLE", "FULL_NAME", "COMPANY", "GH_HANDLE_URL", "GH_HANDLE_AVATAR", "NBR_PR", "REPOSITORIES"
-"2025-01-18T07-40-59Z", "2024-12", "sandeepbarnwal", "Sandeep Kumar Barnwal", "cloudbees", "https://github.com/sandeepbarnwal", "https://avatars.githubusercontent.com/u/5296981?u=75ddf83f9d0ec949158d5dbcc30820db2ed7dd84&v=4", "2", "jenkinsci/dockerhub-notification-plugin jenkinsci/support-core-plugin"
+"2025-01-19T07-40-42Z", "2024-12", "alexh-sauce", "Alex Harford", "@saucelabs", "https://github.com/alexh-sauce", "https://avatars.githubusercontent.com/u/43552063?u=6df2662ae376f11cc4ed86788c07f6b8fc7bd6ab&v=4", "1", "jenkinsci/sauce-ondemand-plugin"
