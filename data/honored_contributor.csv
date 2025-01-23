@@ -1,2 +1,2 @@
 "RUN_DATE", "MONTH", "GH_HANDLE", "FULL_NAME", "COMPANY", "GH_HANDLE_URL", "GH_HANDLE_AVATAR", "NBR_PR", "REPOSITORIES"
-"2025-01-22T07-41-05Z", "2024-12", "vishal-9813", "", "", "https://github.com/vishal-9813", "https://avatars.githubusercontent.com/u/89499392?v=4", "1", "jenkinsci/jenkins"
+"2025-01-23T07-40-55Z", "2024-12", "gmcdonald", "Gavin McDonald", "Apache Software Foundation", "https://github.com/gmcdonald", "https://avatars.githubusercontent.com/u/287517?u=089e2b93d0d34027408b1c14eaedcecc2208c28d&v=4", "1", "jenkinsci/publish-over-cifs-plugin"
